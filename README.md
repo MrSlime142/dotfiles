@@ -2,6 +2,6 @@
 
 not much to say about
 
-### [terminal](./screenshots/terminal.png)
+### terminal
 
-
+<img src=./screenshots/terminal.png>
