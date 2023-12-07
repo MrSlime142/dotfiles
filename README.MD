@@ -6,4 +6,5 @@ a lot of stuff missing but who cares
 
 - [ ] cava
 - [ ] lightdm
+- [ ] rofi
 - [ ] possibly even more stuff
